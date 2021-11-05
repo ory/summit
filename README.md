@@ -21,7 +21,7 @@ Oct 28: 15.30-20.00 CET
 
 Recording: `coming soon`
 
-Presentation: `coming soon`
+Presentation: [Download Slides](https://github.com/ory/summit/raw/master/Ory%20Summit%20Day%201%20Keynote%20-%20Future%20Directions%20for%20the%20New%20ID%20Stack.pdf)
 
 ---
 `session2`
