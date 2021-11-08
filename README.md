@@ -13,7 +13,7 @@ In the [Session Overview](#session-overview) you can find recordings and slides 
 An overview of all the sessions and where they can be found to watch after the summit. 
 
 **Ory Summit 21 West**
-Oct 28: 15.30-20.00 CET
+October 28 2021: 15.30-20.00 CET
 
 ---
 
@@ -97,7 +97,7 @@ Speaker:
 - [@tacurran](https://github.com/tacurran), Co-founder & CEO of Ory Corp
 ---
 **Ory Summit 21 East**
-Oct 29: 9.30-14.00 CET
+October 29 2021: 9.30-14.00 CET
 
 ---
 ### Ory Cloud (Technical Direction) 
