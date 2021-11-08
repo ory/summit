@@ -126,7 +126,7 @@ Presentation: `coming soon`
 
 Recording: `coming soon`
 
-Presentation: [View & Download Slides]
+Presentation: [View & Download Slides](https://github.com/ory/summit/blob/master/Ory_Summit_21_Day_2_-_Dirk_Riehle_-_Open_Source_License_Compliance_and_Ory_Open_Source.pdf)
 
 ---
 `session14`
@@ -157,5 +157,5 @@ Presentation: [View & Download Slides](https://github.com/ory/summit/blob/master
 
 ---
 `session17`
-- Ory Summit: A Re-cap & Farewell - [@tacurran]((https://github.com/tacurran), Co-founder & CEO of Ory Corp
+- Ory Summit: A Re-cap & Farewell - [@tacurran](https://github.com/tacurran), Co-founder & CEO of Ory Corp
 ---
