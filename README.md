@@ -96,7 +96,7 @@ Oct 29: 9.30-14.00 CET
 
 ---
 `session10`
-- Kick-off: Ory Summit East - Day Two - [@tacurran]((https://github.com/tacurran), Co-founder & CEO of Ory Corp
+- Kick-off: Ory Summit East - Day Two - [@tacurran](https://github.com/tacurran), Co-founder & CEO of Ory Corp
 - Ory Cloud (Technical Direction) - [@tricky42](https://github.com/tricky42), Head of Engineering at Ory Corp
 
 Recording: `coming soon`
