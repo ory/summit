@@ -119,7 +119,7 @@ Presentation: [View & Download Slides](https://github.com/ory/summit/blob/master
 
 Recording: `coming soon`
 
-Presentation: `coming soon`
+Presentation: [View & Download Slides](https://github.com/ory/summit/blob/master/Ory_Summit_21_Day_2_-_Amorevino_-_Ory-Cloud_Service_for_App_Developers.pdf)
 
 ---
 `session13`
