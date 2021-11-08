@@ -1,5 +1,7 @@
 # Ory Summit 2021
 
+![ory summit 21 banner](./img/spotlight-banner-1920x400.png)
+
 Missed the Ory Summit this year? 
 No problem!
 In this repository you can find all publicly available material related to the Ory Summit 2021.
@@ -159,3 +161,5 @@ Presentation: [View & Download Slides](https://github.com/ory/summit/blob/master
 `session17`
 - Ory Summit: A Re-cap & Farewell - [@tacurran](https://github.com/tacurran), Co-founder & CEO of Ory Corp
 ---
+
+**See you next year!**
