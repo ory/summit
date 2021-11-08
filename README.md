@@ -115,11 +115,15 @@ Presentation: [View & Download Slides](https://github.com/ory/summit/blob/master
 ---
 `session12`
 
-- Ory Cloud Service for Application Developers and a Practical Example Featuring Firebase - @tc-amorevino & Tilman Theile, Co-founders of Amorevino
+- Ory Cloud Service for Application Developers and a Practical Example Featuring Firebase - [@tc-amorevino](https://github.com/tc-amorevino) & Tilman Theile, Co-founders of Amorevino ([GitHub](https://github.com/amorevino/)).
 
 Recording: `coming soon`
 
 Presentation: [View & Download Slides](https://github.com/ory/summit/blob/master/Ory_Summit_21_Day_2_-_Amorevino_-_Ory-Cloud_Service_for_App_Developers.pdf)
+
+Blog & Video Tutorial: E-Commerce with Ory Cloud 
+- [Part 1: Backend Example](https://www.ory.sh/cloud-ecommerce-backend/)
+- [Part 2: Frontend Example](https://www.ory.sh/cloud-ecommerce-frontend/)
 
 ---
 `session13`
