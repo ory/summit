@@ -6,9 +6,7 @@ Ory Summit provides opportunities to trade insights and experience on best pract
 
 ## Ory Summit 2022
 
-### Ory Summit 2022 Call For Papers (coming soon)
-
-__Bear with us, coming soon!__
+[Get your ticket for Ory Summit 2022 here!](https://summit.ory.sh/)
 
 ## Ory Summit 2021
 
