@@ -1,6 +1,6 @@
 # Ory Summit
 
-Ory Summit is a developer conference organized by Ory and the Ory Community for anyone interested in open source identity for the web. The topics are focused on authentication, authorization, access control, and security but also touch all related web development and open source fields.
+Ory Summit is a developer conference organized by Ory and the Ory Community.
 
 Ory Summit provides opportunities to trade insights and experience on best practices, emerging new methods, approaches, and practical solutions around identity and access management in the cloud.
 
