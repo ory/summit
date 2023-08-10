@@ -4,6 +4,14 @@ Ory Summit is a developer conference organized by Ory and the Ory Community.
 
 Ory Summit provides opportunities to trade insights and experience on best practices, emerging new methods, approaches, and practical solutions around identity and access management in the cloud.
 
+## Ory Summit 2023
+
+### 9th November 2023
+
+**[Get your ticket for Ory Summit 2023 here!](https://summit.ory.sh/)**
+
+A one-day conference around open source end-to-end security and zero trust solutions for the Ory Community - customers, developers, maintainers, and partners.
+
 ## Ory Summit 2022
 
 ![ory summit 22 banner](./img/2022-spotlight-banner-989x400.png)
